@@ -56,9 +56,9 @@ python3 skills/tradingagents-research/scripts/adaptation_map.py \
 
 1. **Debate over voting.** Agents argue, not average. Moderator resolves conflicts.
 2. **Specialized prompts.** Each agent has narrow scope, no cross-contamination.
-3. **Fail-closed risk layer.** Validator can block without explanation — human reviews.
+3. **Fail-closed risk layer.** Validator can block any decision. Human reviews blocked decisions.
 4. **Audit trail.** Every memo, vote, and decision saved to fabric/memory.
-5. **Confidence threshold.** Below X% consensus — block and escalate.
+5. **Confidence threshold.** Below X% consensus -- block and escalate.
 
 ## File Structure
 
@@ -105,10 +105,10 @@ skills/tradingagents-research/
 
 ## References
 
-- `references/role_templates.md` — Generic prompts per role
-- `references/debate_patterns.md` — How debate works, common failures
-- `references/adaptation_checklist.md` — Step-by-step migration guide
-- `references/security_rules.md` — Redaction and safety rules
+- `references/role_templates.md` -- Generic prompts per role
+- `references/debate_patterns.md` -- How debate works, common failures
+- `references/adaptation_checklist.md` -- Step-by-step migration guide
+- `references/security_rules.md` -- Redaction and safety rules
 
 ## Security Rules
 

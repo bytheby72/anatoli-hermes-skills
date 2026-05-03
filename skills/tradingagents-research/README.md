@@ -8,7 +8,7 @@ Analyzes TradingAgents-style repositories (multi-agent LLM trading systems) and 
 
 ## Why It Exists
 
-Trading systems pioneered multi-agent debate architectures. Their patterns — specialized roles, structured argumentation, confidence thresholds, audit trails — apply to any domain requiring multi-source analysis with human oversight.
+Trading systems pioneered multi-agent debate architectures. Their patterns -- specialized roles, structured argumentation, confidence thresholds, audit trails -- apply to any domain requiring multi-source analysis with human oversight.
 
 ## Core Concepts
 
@@ -79,6 +79,13 @@ python3 skills/tradingagents-research/scripts/adaptation_map.py \
 ```bash
 cd skills/tradingagents-research
 python3 -m pytest tests/ -v
+```
+
+Or run directly:
+```bash
+python3 tests/test_scan_repo.py
+python3 tests/test_adaptation_map.py
+python3 tests/test_no_leaks.py
 ```
 
 ## License
