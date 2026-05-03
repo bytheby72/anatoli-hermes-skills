@@ -9,6 +9,8 @@
 |-------|----------|---------|
 | [Agent Dashboard](skills/agent-dashboard/) | devops | Self-hosted web dashboard for multi-agent management |
 | [Skill Factory](skills/skill-factory/) | meta | Auto-generate reusable skills from live sessions |
+| [Trust Boundary](skills/trust-boundary/) | security | Runtime guard against prompt injection (CaMeL) |
+| [Multi-Agent Orchestrator](skills/multi-agent-orchestrator/) | devops | Parallel specialist agents with structured handoffs |
 
 ## Quick Start
 
