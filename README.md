@@ -14,6 +14,7 @@
 | [Agent HUD](skills/agent-hud/) | devops | Terminal TUI monitoring for Hermes Agent state |
 | [Ecosystem Atlas](skills/ecosystem-atlas/) | research | Community-curated map of 100+ tools and skills |
 | [Hermes Wiki](skills/hermes-wiki/) | devops | Local read-only intelligence scanner and diagnostics |
+| [TradingAgents Research](skills/tradingagents-research/) | research | Multi-agent LLM architecture analyzer and adaptation guide |
 
 ## Quick Start
 
