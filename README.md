@@ -11,6 +11,8 @@
 | [Skill Factory](skills/skill-factory/) | meta | Auto-generate reusable skills from live sessions |
 | [Trust Boundary](skills/trust-boundary/) | security | Runtime guard against prompt injection (CaMeL) |
 | [Multi-Agent Orchestrator](skills/multi-agent-orchestrator/) | devops | Parallel specialist agents with structured handoffs |
+| [Agent HUD](skills/agent-hud/) | devops | Terminal TUI monitoring for Hermes Agent state |
+| [Ecosystem Atlas](skills/ecosystem-atlas/) | research | Community-curated map of 100+ tools and skills |
 
 ## Quick Start
 
