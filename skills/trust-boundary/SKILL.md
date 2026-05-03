@@ -16,7 +16,7 @@ Runtime guard against indirect prompt injection. Untrusted tool output cannot si
 - Agent has access to sensitive tools: file write, terminal exec, email send, browser nav
 - Multi-user or multi-tenant deployment
 - Compliance requirements: audit trail for all sensitive actions
-- Production deployment of Tera/Detector with external data sources
+- Production deployment of monitoring systems with external data sources
 
 ## What It Protects Against
 
@@ -169,7 +169,7 @@ Classifier uses small fast model when configured via `auxiliary.camel_guard`.
 - Do NOT skip trace review in monitor mode - traces reveal tuning opportunities
 - Do NOT run classifier on same model as main agent if latency-sensitive
 
-## For IEK AI 2026 / Tera / Detector
+## For business automation 0026 trade operations
 
 Specific threats to guard against:
 - Scraped competitor pages containing malicious instructions

@@ -12,7 +12,7 @@ Centralized control panel for Hermes Agent fleet. One interface - all profiles, 
 
 ## When to Activate
 
-- Managing 2+ Hermes Agent profiles (e.g., Ara for IEK, Tera for Detector)
+- Managing 2+ Hermes Agent profiles (e.g., Profile A for procurement, Profile B for monitoring)
 - Need real-time monitoring of agent sessions, token usage, costs
 - Running scheduled cron jobs and want visual control
 - Team access required with role-based permissions

@@ -1,6 +1,6 @@
-# Anatoli Hermes Skills
+# Hermes Skills Collection
 
-> Production-ready skill packs for IEK AI 2026, Tera, and Detector operations.
+> Production-ready skill packs for business automation, trade operations, and monitoring systems.
 > Curated, battle-tested, privacy-first.
 
 ## Skills
@@ -13,11 +13,12 @@
 | [Multi-Agent Orchestrator](skills/multi-agent-orchestrator/) | devops | Parallel specialist agents with structured handoffs |
 | [Agent HUD](skills/agent-hud/) | devops | Terminal TUI monitoring for Hermes Agent state |
 | [Ecosystem Atlas](skills/ecosystem-atlas/) | research | Community-curated map of 100+ tools and skills |
+| [Hermes Wiki](skills/hermes-wiki/) | devops | Local read-only intelligence scanner and diagnostics |
 
 ## Quick Start
 
 ```bash
-git clone https://github.com/anatoli-piakhouski/anatoli-hermes-skills.git
+git clone https://github.com/bytheby72/anatoli-hermes-skills.git
 cd anatoli-hermes-skills
 
 # Install Agent Dashboard skill

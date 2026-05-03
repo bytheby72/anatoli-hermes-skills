@@ -86,7 +86,7 @@ import os
 t1 = kanban_create(
     title="research: AVS.by price changes (last 30d)",
     assignee="researcher",
-    body="Extract price history for IEK SKUs from AVS.by. Focus on MCB, RCD, contactors. Output: CSV + anomaly list.",
+    body="Extract price history for electrical SKUs from supplier catalog. Focus on circuit breakers, RCDs, contactors. Output: CSV + anomaly list.",
     tenant=os.environ.get("HERMES_TENANT"),
 )["task_id"]
 

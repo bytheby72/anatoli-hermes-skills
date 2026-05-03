@@ -208,7 +208,7 @@ Switch via command palette: `ctrl+p`
 | Missing skills | Skills not in `~/.hermes/skills/` | Check skill install path |
 | Theme not applying | Terminal doesn't support truecolor | Use basic theme |
 
-## For IEK AI 2026 / Tera / Detector
+## For business automation 0026 trade operations
 
 Typical monitoring workflow:
 ```bash

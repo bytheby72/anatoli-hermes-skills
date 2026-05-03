@@ -16,7 +16,7 @@ Automated skill generation from real work. No manual documentation - the agent w
 - When user says "save this", "remember this workflow", "turn into skill"
 - Before session end - capture everything repeatable
 - When onboarding new agent instances with same domain
-- Building team knowledge base for IEK AI 2026 / Tera / Detector
+- Building team knowledge base for business automation 0026 trade operations
 
 ## Core Principle
 
@@ -146,8 +146,8 @@ def register(hermes):
 
 | Rule | Good | Bad |
 |------|------|-----|
-| kebab-case | `iek-price-parser` | `IEKPriceParser` |
-| Domain prefix | `iek-valuation-report` | `valuation` |
+| kebab-case | `price-parser` | `PriceParser` |
+| Domain prefix | `valuation-report` | `valuation` |
 | Action verb first | `parse-price-list` | `price-list` |
 | No versions in name | `tender-scraper` | `tender-scraper-v2` |
 
@@ -160,7 +160,7 @@ Generated skills MUST:
 - Explain WHY, not just WHAT
 - List integration with existing skills
 
-## For IEK AI 2026 / Tera / Detector
+## For business automation 0026 trade operations
 
 Common patterns to capture:
 - Price parsing workflows (AVS.by, ankron.by, e-electric.ru)

@@ -161,7 +161,7 @@ Repos must pass all checks:
 - Do NOT ignore security review status - unreviewed repos may have risks
 - Do NOT rely solely on RAG chatbot for critical decisions - verify with source repo
 
-## For IEK AI 2026 / Tera / Detector
+## For business automation 0026 trade operations
 
 Relevant categories and repos:
 
